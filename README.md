@@ -1,4 +1,4 @@
-# Watson Workspace Export Utility MASTER
+# Watson Workspace Export Utility
 
 This repository contains a Python project to export the contents of Watson Workspace for a given user.
 
